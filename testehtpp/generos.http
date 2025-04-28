@@ -1,0 +1,3 @@
+@url = https://orange-bassoon-x5x96wr754w53pjrv-3000.app.github.dev
+
+GET {{url}}/api/v1/generos
